@@ -1,0 +1,2 @@
+module MousepadsHelper
+end
